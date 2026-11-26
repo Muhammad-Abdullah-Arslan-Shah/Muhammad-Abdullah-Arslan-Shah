@@ -30,6 +30,21 @@ Case studies and walkthrough videos: **[abdullah-portfolio-six-gamma.vercel.app]
 
 ---
 
+### ⚙️ Tech I work with
+
+**AI & agents:** Claude (Anthropic) · OpenAI · MCP · LangGraph · Claude Agent SDK · RAG · Vector search  
+**Backend:** NestJS · Node.js · Python · FastAPI · Express · REST · Webhooks · BullMQ  
+**Frontend & mobile:** Next.js · React · TypeScript · Tailwind CSS · React Native  
+**Data:** PostgreSQL · Supabase · pgvector · Redis · MongoDB  
+**Voice & automation:** Vapi · Bland · ElevenLabs · n8n · Zapier · Make  
+**Cloud:** AWS · Vercel · Docker · Stripe
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,nextjs,react,tailwind,postgres,supabase,redis,mongodb,docker,aws,vercel,git&perline=16" alt="Tech stack icons" />
+</p>
+
+---
+
 ### 📫 Let's talk
 
 Have a workflow or product idea that might need AI? Send it over and I'll tell you straight how I'd build it, and whether AI belongs in it.
