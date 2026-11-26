@@ -39,9 +39,6 @@ Case studies and walkthrough videos: **[abdullah-portfolio-six-gamma.vercel.app]
 **Voice & automation:** Vapi · Bland · ElevenLabs · n8n · Zapier · Make  
 **Cloud:** AWS · Vercel · Docker · Stripe
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,nextjs,react,tailwind,postgres,supabase,redis,mongodb,docker,aws,vercel,git&perline=16" alt="Tech stack icons" />
-</p>
 
 ---
 
